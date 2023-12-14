@@ -1,0 +1,6 @@
+[submodule "tiny-AES-c"]
+	path = tiny-AES-c
+	url = https://github.com/kokke/tiny-AES-c.git
+[submodule "hmac_sha256"]
+	path = hmac_sha256
+	url = https://github.com/h5p9sl/hmac_sha256.git
